@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+.App p{
+  color: red;
+}
+.App h1{
+  font-family: cursive;
+}
+.App .displaydata{
+  width: 80%;
+  margin: auto;
+  justify-content: center;
+  height: 500px;
+  /* border: 2px solid black; */
+  margin-top: 10px;
+  
+  /* background-image: url('download.jpg'); */
+}
+.displaydata p{
+  color: brown;
+  font-family: 'Courier New', Courier, monospace;
+  font-size:large;
+  background-color: rgb(159, 160, 95);
+  box-shadow: 2px seagreen;
+  font-style: italic;
+  border-radius: 10px;
+  width: 200px;
+  margin: auto;
+  padding: 10px;
+  margin-top: 10px;
+  box-shadow: 5px 2px rgb(128, 38, 170);
+}
+
+
+
+
+
